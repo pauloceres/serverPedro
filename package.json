@@ -1,0 +1,14 @@
+{
+  "name": "cerespedro",
+  "version": "0.0.1",
+  "author": {
+    "name": "Paulo otavio",
+    "email": "paulo.otavio.rm@gmail.com",
+    "url": "https://www.google.com"
+  },
+  "description": "Testando",
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0"
+  }
+}
